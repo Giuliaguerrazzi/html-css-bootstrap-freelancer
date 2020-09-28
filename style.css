@@ -21,10 +21,15 @@
 
 .about {
   background: #1abc9c;
-  height: 500px;
+  height: 300px;
 }
 
 .box5 {
   height: 40px;
   background: blue;
+}
+
+.box6 {
+  height: 400px;
+  background: orange;
 }
