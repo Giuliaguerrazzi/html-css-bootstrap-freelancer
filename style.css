@@ -1,0 +1,30 @@
+.box {
+  height: 40px;
+  background: #2c3e50;
+}
+
+.box2 {
+  height: 200px;
+  background: #1abc9c;
+}
+
+.box3 {
+  height: 40px;
+  background: lightyellow;
+}
+
+.box4 {
+  width: 300px;
+  height: 200px;
+  background: #1d83c1;
+}
+
+.about {
+  background: #1abc9c;
+  height: 500px;
+}
+
+.box5 {
+  height: 40px;
+  background: blue;
+}
