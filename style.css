@@ -1,13 +1,19 @@
-.box {
-  height: 40px;
+/* Header */
+header {
   background: #2c3e50;
 }
+.box {
+  height: 40px;
+  background: lightgreen;
+}
 
+/* Start */
 .box2 {
   height: 200px;
   background: #1abc9c;
 }
 
+/* Portfolio */
 .box3 {
   height: 40px;
   background: lightyellow;
@@ -16,9 +22,11 @@
 .box4 {
   width: 300px;
   height: 200px;
+  margin: 15px auto;
   background: #1d83c1;
 }
 
+/* About */
 .about {
   background: #1abc9c;
   height: 300px;
@@ -29,11 +37,13 @@
   background: blue;
 }
 
+/* Contact */
 .box6 {
   height: 400px;
   background: orange;
 }
 
+/* Footer */
 footer {
   background: #2c3e50;
 }
@@ -42,6 +52,7 @@ footer {
   background: #5d5dd5;
 }
 
+/* Copyright */
 .copyright {
   background: #1a252f;
 }
