@@ -1,11 +1,38 @@
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 /* Header */
-header {
+.navbar {
   background: #2c3e50;
 }
-.box {
-  height: 40px;
-  background: lightgreen;
+
+.navbar-default .navbar-brand{
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 25px;
 }
+
+.navbar-default .navbar-nav > li > a{
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 15px;
+}
+
+.navbar-header {
+  padding-left: 90px;
+}
+
+.navbar-collapse {
+  padding-right: 90px;
+}
+
+.navbar-brand,
+.navbar-nav > li > a {
+  line-height: 50px;
+}
+
 
 /* Start */
 .box2 {
