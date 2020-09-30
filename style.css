@@ -229,6 +229,8 @@ margin: 60px 60px;
 .btn-primary {
   background: #1abc9c;
   border: 0;
+  font-size: 20px;
+  padding: 15px 20px;
 }
 
 .btn-primary:hover {
@@ -272,12 +274,22 @@ margin: 60px 60px;
 /* Footer */
 footer {
   background: #2c3e50;
-}
-.box7 {
-  height: 50px;
-  background: #5d5dd5;
+  color: #fff;
+ padding: 50px 0;
 }
 
+.box7 {
+}
+
+.social i {
+  color: #fff;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
 /* Copyright */
 .copyright {
   background: #1a252f;
